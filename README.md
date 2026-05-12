@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20131830.svg)](https://doi.org/10.5281/zenodo.20131830)
+
+Archived and published via Zenodo.
+
 # Human Digital Twin for Behavior Simulation Using Artificial Intelligence
 
 ## Overview
