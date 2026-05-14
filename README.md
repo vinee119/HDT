@@ -206,6 +206,9 @@ HDT/
 git clone <repository-link>
 cd HDT
 pip install -r requirements.txt
+```
+
+---
 
 ## Running the Project
 
