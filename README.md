@@ -1,5 +1,9 @@
 # Human Digital Twin for Behavior Simulation Using Artificial Intelligence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20131830.svg)](https://doi.org/10.5281/zenodo.20131830)
+
+Archived and published via Zenodo.
+
 ## Overview
 
 Human behavior is influenced by emotional states, contextual conditions, and environmental factors. Traditional artificial intelligence systems often focus on isolated tasks such as emotion recognition or decision prediction, limiting their ability to simulate realistic human responses.
@@ -192,7 +196,9 @@ HDT/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── NOTICE.md
+```
 
 ---
 
@@ -202,10 +208,13 @@ HDT/
 git clone <repository-link>
 cd HDT
 pip install -r requirements.txt
+```
 
 ## Running the Project
 
+```bash
 streamlit run app/streamlit_app.py
+```
 
 ## Research Contribution
 
